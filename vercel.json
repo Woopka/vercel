@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://mo.woook.de5.net/$1"
+    }
+  ]
+}
