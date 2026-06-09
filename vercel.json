@@ -4,5 +4,16 @@
       "source": "/(.*)",
       "destination": "https://cdn.woook.de5.net/$1"
     }
+  ],
+  "headers": [
+    {
+      "source": "/(.*)",
+      "headers": [
+        {
+          "key": "Host",
+          "value": "mo.woook.de5.net"
+        }
+      ]
+    }
   ]
 }
