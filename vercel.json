@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://mo.woook.de5.net/$1"
+      "destination": "https://cdn.woook.de5.net/$1"
     }
   ]
 }
